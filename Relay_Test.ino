@@ -6,7 +6,7 @@ Note: This is an active low relay. Which basically means
       Relay is OFF, when power signal is HIGH
 ////////////////////////////////////////////////
 ////////////////////////////////////////////////
-*/
+ */
 
 
 int relay_switch = 10;
